@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author             = { "Adam Duke" => "adam.v.duke@gmail.com" }
   s.social_media_url   = "http://twitter.com/adamvduke"
   s.platform           = :ios
-  s.source             = { :git => "https://github.com/SymmetricInfinity/MBProgressHUDExtensions.git", :tag => "0.0.1" }
+  s.source             = { :git => "https://github.com/FBente/MBProgressHUDExtensions.git", :tag => "0.0.1" }
   s.source_files       = "*.{h,m}"
   s.framework          = "UIKit"
   s.requires_arc       = false
